@@ -9,7 +9,8 @@ Time Allocation Draft(for daily schedule)
 			-shoulder
 			-back(spinal cord)
 			-Belt
-		-Stomach(ad
+		-Stomach
+		-butt
 		-Legs
 		-skin
 		-Lungs(Breathing)
