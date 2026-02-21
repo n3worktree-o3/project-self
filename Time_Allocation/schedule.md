@@ -88,6 +88,6 @@
 # NOTES:
     - Screen/book Posture
         - Standing Posture(highly recommended)
-            -Tips:passive looking,passive walking,passive exercise(optional) 
+            -Tips:passive looking,passive walking,passive exercise(optional),increase table high as much as possible
         - Sleeping posture
             -Tips:passive looking,passive walking,passive exercise(optional)
