@@ -1,131 +1,93 @@
+# Morning
+> 5:00 AM ->Wake up
+>(or 5:30 wake up)/or(sleep at 10 to increase sleeping during to 7hours during  heavy load)
+> 5:00 AM - 6:45 AM (Total-> 1 hours and 45 mins)
+    - Excercise (1 hours and 45 mins)
+        - Brain->10mins
+        - Eyes ->10mins
+        - Posture(30mins)
+            -Neck->10 mins
+            -Back ->10mins
+            -Belt ->10 mins
+        -Stomach->10 mins
+        -Legs->10 mins
+        -Skin->just stay in sunlight in this 1 hours and 45 mins
+        -universal respoisbility(do parallely with exercice)
+            - Mean while try to give biscuits to dogs
+            - feeding birds
+            - Helping family
+> 6:45 AM - 7:00 AM ->Bath and dress up
 
-# TIME ALLOCATION
+> 7:00 AM - 7:30 AM
+    - Eating and hydrating -> 15 mins
+    - mental health -> 15 mins
 
-# CATEGORY:HEALTH,SELF-DEVELOPMENT,Family
+# Night
+> 7:30 PM->Reaching home
+> 7:30 PM - 7:45 PM ->bath and fresh up and eat something
+> 7:45 PM - 8:30 PM
+    - no screen after 7:45(Laptop/TV/Mobile phone)
+    - You can do
+        -Universal responsibility do parallelly(do whenever u get oppurtunity)
+        -Revision and Learning with books
+        -self reflection(introspection,retrospection) for that day / Journaling 
 
-## Morning
+> 8:30 PM - 10 :30 PM 
+     - Universal responsibility do parallelly(do whenever u get oppurtunity)
+     - Eating ->10 mins
+     - Excercise -> 1 hour 10 mins
+     - Reading ->30 mins(10:00 PM - 10:30PM)
 
-5:00 ->wake up
-5:00 - 5:10 ->go outside->expose to sunlight+heavy brething
-5:10 - 5:30 ->eye exercise
-5:30 - 6:00 ->general exercise
-6:00 - 6:45 ->mental_work+breathing exercise
-6:45 - 7:00 ->bath and dress up
-7:00 - 7:15 ->eating
-7:15 - 7:30 ->get ready for college
-
-Note:you can replace mental_work with family when needed
-
-
-## Night (reaching time 7:30)
-7:30  - 7:45  ->bath 
-7:45  - 8:00  ->mental(or family help)+work
-8:00  - 9:00  ->eating+family_help
-9:00  - 10:00 ->mental_work+walking(along with with mental_work)----->(eye+general_exercise+breathing excercise)
-10:00 - 11:00 ->(@self-introspection+self-reflection+journaling for that day)-----> reading ----->sleep
-
-#NOTE:You can replace mental_work(9:00 - 10:00) ->self-development
-
-
-
-
-# CATEGORY:ACADAMICS ,SKILL DEVELOPMENT(8:00 AM - 7:30 PM)
-Acadamics:exam preparation+classes+assignment/assessments
-
-Skill development:job preparation+Ml learning(basically rest fall in skill development)
-
-
-# Case-NO-class
-RATIO - <acadamics:skill development> = <30:70>
-
-# Case-class
-
-On avearge:
-class:4 hours
-Travel:1 hour(1/2 hour +1/2 hours)
-exam prep+assessments/assigments:2 hours
-rest(skill_development):11.5-7hours=4.5 hours
-
-
-RATIO - <acadamics:skill development> = <7:4.5>
-
-
-# Solution to increase the time allocation for skill_development activities
-
-## Solution1: Overlap class with exam_prep+assessment
-
-- Listen activiely
-- Take structured notes
-- clarify odubts same day
-
-Then exam prep may reduce from 2hours->1 hour
-
-New calculation:
-class=4
-travel=1
-Exam_prep=1
-
-Total_academic=6
-remanining=5.5
-
-new_RATIO - <acadamics:skill development> = <6:5.5>
-
-
-## Solution2: Convert acadamic into skill development activities
-
--Try to convert attending class +exam_prep+assessments into skill development activities
-
-
-New calculation:
-class=4
-travel=1
-Exam_prep=1
-
-Total_academic=6
-remanining=5.5 
-overlapping time:6 hours
-skill_development :5.5+6=11.5 hours(huge improvement)
-
-new_RATIO - <acadamics:skill development> = <6:5.5>
-new_overlap ratio - <acadamics:skill development> = <6: (5.5)>
-
-overlapping hours (extra)=6
-
-
-
-
-
-
-
-
-
-
-# CATEGORY :UNIVERAL RESPOSIBLITY
-
-            ACTIVITY                                       TIME_ALLOCATION
-- Giving biscuit to dogs,birds                      Morning+afternoon+evening+night
-- Social service(thourgh internet)                         2 hour(Saturday+Sunday)
-    - creating educational content                         15 mins in working days(try to overlap)
-    - Answering doubts
-    - Open-source contribution(github,youtube,etc)
-    - Helping friends(learning) and giving advice
+# After noon +evening(in between morning and evening)
+- Morning NO class(7:30 AM - 7:30 PM (12hours))
+    - 7:30 - 11:30 ->cycling(4 hours)
+    - Traveling ->1 hour
+    - If learning Time is 3 hours(screen +book)
+        - First Hour(screen)
+            - 20-20-20 with 5 mins break(exercise)
+        - One hour break(exercise(1/2hr)+book(1/2hr))
+        - Second Hour(screen)
+            - 20-20-20 with 5 mins break(exercise)
+        - One hour break(exercise(1/2hr)+book(1/2hr))
+        - Third Hour(screen)
+            - 20-20-20 with 10 mins break(exercise)
+        - One hour break(exercise(1/2hr)+book(1/2hr))
+        $ Total Hours(6hr 40 mins)
+            - 3 hrs screen learning
+            - 1 hr+30mins book learning
+            - 2 hr+10mins excercise
+            - rest 20 mins ->room for error
+            
+- Morning class(7:30 AM - 7:30 PM (12hours))
+    - Traveling ->2 hour
+    - If learning Time is 3 hours(screen +book)
+        - First Hour(screen)
+            - 20-20-20 with 10 mins break(exercise)
+        - One hour break(exercise(1/2hr)+book(1/2hr))
+        - Second Hour(screen)
+            - 20-20-20 with 10 mins break(exercise)
+        - One hour break(exercise(1/2hr)+book(1/2hr))
+        - Third Hour(screen)
+            - 20-20-20 with 10 mins break(exercise)
+        - One hour break(exercise(1/2hr)+book(1/2hr))
+        - Fourth Hour(screen)
+            - 20-20-20 with 10 mins break(exercise)
+        - One hour break(exercise(1/2hr)+book(1/2hr))
+        - 
+       
+        
+        $ Total Hours(10 hours)
+            - 4 hrs screen learning
+            - 2 book learning
+            - 3 hr+ 20 mins excercise
+            - rest 40 mins ->room for error
+    
+    
     
 
-# IMPORTANT:
-- When ever u get oppurtunity spend more time for Family,Universal_resposiblity,health
-    Priority(Top->bottom)
-    - Family
-    - Health
-    - Universal responsiblity
-    - Self/Skill Development
-    - Academics
-
-- Cycling(month) 1-time=4hours
-    - Any one week 4 times 
-    - Any one week 3 times
-    - Any two week 2 times
-    
-    (try to convert cycling into skill development activity)
-
-
-
+# NOTES:
+    - Screen/book Posture
+        - Standing Posture(highly recommended)
+            -Tips:passive looking,passive walking,passive exercise(optional) 
+        - Sleeping posture
+            -Tips:passive looking,passive walking,passive exercise(optional)
