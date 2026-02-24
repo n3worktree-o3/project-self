@@ -26,6 +26,7 @@
 	- Road_map
 	-scope:almost all things
 - Investements
+- Mind Mapping and visualisation
 	
 # Transferable skills
 - Communication
