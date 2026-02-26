@@ -45,7 +45,11 @@ schedule
 - cycling
     - 4 hrs
 - Exercise
+    - 2hrs
     - 3hrs
+    - 4hrs
+    - 5hrs
+    - 6hrs
 - Skills
     - 1hr
     - 2hr
