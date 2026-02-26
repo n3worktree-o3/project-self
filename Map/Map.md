@@ -11,6 +11,7 @@
 	- Universal responsibility 
 # problem_solution
 # concepts(definitions)
+# Short_points
 
 
 
