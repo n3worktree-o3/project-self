@@ -26,7 +26,8 @@
 	- Road_map
 	-scope:almost all things
 - Investements
-- Mind Mapping and visualisation
+- (Mind Mapping and visualisation) and observation(visual intelligence)
+- Agentic AI (Automation skills)
 	
 # Transferable skills
 - Communication
@@ -42,5 +43,4 @@
 - Visual Intelligence: Sharpen Your Perception, Change Your Life
 - Phychology of Money
 - Reinvent Yourself
-
 
