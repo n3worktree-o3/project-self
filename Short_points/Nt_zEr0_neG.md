@@ -1,17 +1,4 @@
-# A
-- Intution(for intution see colin channel)
-- Curiosity
-- Liking
-- habitual
-- Liking
-- Balance 
-- Consistency
-- Resilience
-- Patience
-- Endurance
-- Depth > Breath
-
-# B
+# $
 - Every situation is a oppurtunity to learn and improve
 - Short term goal(Compare with yesterday you)
 - Learn and apply in a project immediately
@@ -25,20 +12,26 @@
                             - Implementation
                                 - Teachniques
                                     -Tools
+        -Frame work -where ?
+        - See if there are more to add?
 
+- Nature is the greatest source of Ideas
+- Our expectations and belief influences what we find in this world
 
-#C
-- Keeping everyhing strcutured
-- Perfect start
-- Having map for every thing
-
-
-            +-------------------------+          +-----------+      
-            |                         |          |           |                           
-            |            A+B          |          |      C    |          
-            |                         |  >>>>    |           |
-            |                         |          +-----------+   
-            |                         |
-            --------------------------+                          
             
-            Don't keep everyhing structure More intution+ medium structure,
+# BROAD
+- Intution(for intution see colin channel)
+- Curiosity
+- Liking
+- habitual
+- Balance 
+- Consistency
+- Resilience
+- Patience
+- Endurance
+    (>)->Important
+- Depth > Breath
+- Experience > Knowlegde
+- Intution > Structure or Heuristic > Algorihtmic 
+- Implementation >Learning 
+  
