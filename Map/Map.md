@@ -27,7 +27,7 @@
 	- Road_map
 	-scope:almost all things
 - Investements
-- (Mind Mapping and visualisation) and observation(visual intelligence)
+- Visual intelligence(observation,mind-mapping,visualisation)
 - Agentic AI (Automation skills)
 	
 # Transferable skills
