@@ -193,7 +193,6 @@ Chatbot is the application that uses the brain.
 ![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2010-05-23.png)
 
 ## AI work flow video
-![LLM](https://www.youtube.com/watch?v=H0YRniHh2tg)
-
+[![Watch Video](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2010-09-03.png)](https://www.youtube.com/watch?v=H0YRniHh2tg)
 
 
