@@ -192,7 +192,232 @@ Chatbot is the application that uses the brain.
 ![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2010-05-06.png)
 ![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2010-05-23.png)
 
-## AI work flow video
+# AI work flow video
 [![Watch Video](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2010-09-03.png)](https://www.youtube.com/watch?v=H0YRniHh2tg)
+
+# AI Agent Workflow
+
+Core Principle:
+
+AI Agent operates in a loop:
+
+OBSERVE → THINK → PLAN → ACT → OBSERVE → REPEAT → FINAL ANSWER
+
+This is called the Agent Loop.
+
+---
+
+# Step-by-Step Workflow
+
+## Step 0: Goal / User Input
+
+User gives:
+
+Example:
+"Find the latest ML research paper and summarize it"
+
+This becomes the AGENT GOAL.
+
+---
+
+## Step 1: Observe
+
+Agent collects available information.
+
+Sources:
+
+- User input
+- Memory
+- Files
+- Internet
+- Tool outputs
+
+Output of this step:
+
+OBSERVATION
+
+Example:
+
+"User wants latest ML research paper"
+
+---
+
+## Step 2: Think (Reasoning)
+
+LLM analyzes:
+
+- What is needed
+- What is missing
+- What to do next
+
+This produces:
+
+THOUGHT
+
+Example:
+
+"I need to search the internet"
+
+---
+
+## Step 3: Plan
+
+Agent decides action:
+
+PLAN:
+
+- Search internet
+
+This produces:
+
+ACTION PLAN
+
+---
+
+## Step 4: Act (Tool Use)
+
+Agent executes tool:
+
+Examples:
+
+- Web search
+- Calculator
+- Code execution
+- Database query
+
+Example:
+
+Search: "latest ML research paper 2026"
+
+Tool returns:
+
+Result data
+
+---
+
+## Step 5: Observe Again
+
+Agent observes tool result.
+
+Example:
+
+"Found research paper"
+
+---
+
+## Step 6: Think Again
+
+Agent evaluates:
+
+Is goal complete?
+
+IF NO:
+
+repeat loop
+
+IF YES:
+
+produce final answer
+
+---
+
+## Step 7: Final Response
+
+Agent produces final output.
+
+Example:
+
+Summary of research paper
+
+---
+
+# Complete Loop Structure
+
+GOAL
+ ↓
+OBSERVE
+ ↓
+THINK
+ ↓
+PLAN
+ ↓
+ACT
+ ↓
+OBSERVE
+ ↓
+THINK
+ ↓
+REPEAT LOOP
+ ↓
+FINAL ANSWER
+
+---
+
+# Internal Components Used
+
+Agent uses:
+
+- LLM → reasoning
+- Tools → actions
+- Memory → past info
+- Planner → decision making
+
+---
+
+# Real Example Walkthrough
+
+User:
+
+"Calculate sqrt(987654321)"
+
+Agent:
+
+Observe:
+User wants sqrt
+
+Think:
+Need calculator
+
+Act:
+Use calculator tool
+
+Observe:
+Result = 31426.968
+
+Think:
+Goal complete
+
+Respond:
+Return result
+
+---
+
+# Key Concept
+
+Agent is NOT one-step.
+
+Agent is multi-step loop.
+
+LLM → Tool → LLM → Tool → LLM
+
+---
+
+# One-Line Definition
+
+AI Agent is an LLM that:
+
+Observes → Thinks → Acts → Repeats → Until Goal Achieved
+
+---
+
+# Short Minimal Version
+
+INPUT → THINK → ACT → RESULT → REPEAT → OUTPUT
+
+---
+
+End of Document
+
+![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2010-17-22.png)
 
 
