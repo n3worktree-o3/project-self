@@ -184,21 +184,7 @@ LLM is the brain.
 Chatbot is the application that uses the brain.
 
 ---
+# KEY TRAITS of LLMS
+![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2009-38-09.png)
 
-# 8. Learning perspective
 
-To build chatbot:
-
-Step 1: Learn Machine Learning
-
-Step 2: Learn Neural Networks
-
-Step 3: Learn Transformers
-
-Step 4: Learn LLM
-
-Step 5: Build Chatbot using LLM
-
----
-
-End of document.
