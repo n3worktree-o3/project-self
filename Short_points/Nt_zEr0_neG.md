@@ -19,6 +19,7 @@
 - Our expectations and belief influences what we find in this world
 - CACR-D mindset
 - putting > taking,finding>restraining --->mindset
+- Best to learning / Explore A is to see everything around you as A
 
             
 # BROAD
