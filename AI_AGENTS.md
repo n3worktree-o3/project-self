@@ -184,7 +184,13 @@ LLM is the brain.
 Chatbot is the application that uses the brain.
 
 ---
-# KEY TRAITS of LLMS
+# 8. KEY TRAITS of LLMS
 ![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2009-38-09.png)
+
+
+# AI WORK FLOWS
+![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2010-05-06.png)
+![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2010-05-23.png)
+
 
 
