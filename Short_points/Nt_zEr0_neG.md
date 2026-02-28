@@ -23,6 +23,7 @@
 - Best Way to learn something is to explore and CACR-D mindset
 - thinking before acting ->solution for explosive actions
 - Give important to memorisation than note-taking because if you memorise u can easy apply it .
+- If you have a idea first write the rough in a notebook(or paper) then improve and evaluate it .And finally type it in md file
 
             
 # BROAD
