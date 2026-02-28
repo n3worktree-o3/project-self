@@ -25,7 +25,7 @@
 - Give important to memorisation than note-taking because if you memorise u can easy apply it .
 - If you have a idea first immediately write the rough in a notebook(or paper) then improve and evaluate it .And finally type it in md file
 - Addiction can only be replaced with another addiction,desire can only be replaced another desire.Addiction can't be removed,only replaced.
-
+- In life small things can cause huge changes
             
 # BROAD
 - Intution(for intution see colin channel)
