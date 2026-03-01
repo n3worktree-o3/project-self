@@ -1,15 +1,15 @@
 # CUE(OBVIOUS)
-- Enviroment changes
+- Envirnment changes
 - clear and realistic schedule(time +place+goal)
 
 
 # CRAVING(ATTRACTIVE)
-- Enviroment changes should satify the object rules
+- Environment changes should satify the object rules
 
 
 # ACTION STRATEGY(EASY)
-- Enviroment change:Enviroment change should satify the action rules
+- Environment change:Environment change should satify the action rules
 
 # REWARD
-- Enviroment change:Enviroment change should satisfy action and reward rules
+- Environment change:Environment change should satisfy action and reward rules
   
