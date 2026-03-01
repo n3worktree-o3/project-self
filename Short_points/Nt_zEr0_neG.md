@@ -28,8 +28,8 @@
   -Don't put everything in todo list some requires quick construction or rough construction
 - Addiction can only be replaced with another addiction,desire can only be replaced another desire.Addiction can't be removed,only replaced.
 - In life small things can cause huge changes
-
 - Don't rush to do anyhting ,feel and do with awareness.Something stop and ask questions like "I am going in right direction?",etc
+- Solution for laziness is empty stomach,exercise,cold shower
 
 # BROAD
 - Intution(for intution see colin channel)
