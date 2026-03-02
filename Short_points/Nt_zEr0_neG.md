@@ -34,6 +34,13 @@
   - A genius is the man who can do the average thing when everyone else around him is losing his mind(key:strategic thinking)
   - The world is full of obvious things which nobody by any chance ever observes.(key:observation)
 
+
+- Learning_strategies
+    - Learn things when needed
+    - Learning:Implementation(Challenging,Trying,Analysis,Correcting,repeat) ->5:95
+    - Strategies
+        - Human learning:Learning → Challenging → Trying → Analysis → Correcting → Repeat
+        - Reinforcement Loop:State → Action → Reward → Update → Repeat
 # BROAD
 - Intution(for intution see colin channel)
 - Curiosity
