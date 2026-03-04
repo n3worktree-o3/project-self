@@ -33,7 +33,7 @@
 - Psychology of money quotes
   - A genius is the man who can do the average thing when everyone else around him is losing his mind(key:strategic thinking)
   - The world is full of obvious things which nobody by any chance ever observes.(key:observation)
-
+- Having too many options is like having no options->so ground your strength
 
 - Learning_strategies
     - Learn things when needed
