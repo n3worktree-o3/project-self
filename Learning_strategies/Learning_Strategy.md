@@ -14,3 +14,6 @@
 8. Have short terms goals
    - Decompose the Main Goal into sub goals and follow it
    - Compare with yesterday you
+  
+9. learning though multiple iteration ,passive to in-depth
+
