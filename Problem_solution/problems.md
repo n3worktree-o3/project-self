@@ -1,6 +1,6 @@
 # Problems
 - Food
-- Mindset shift
+- Mindset shift/identity shift
 - Recollecting and memorization and memory retention
 - Laziness
 - Habitual ->see Atomic habits
