@@ -1,15 +1,24 @@
 # CUE(OBVIOUS)
-- Envirnment changes
-- clear and realistic schedule(time +place+goal)
+- Fix your environment
+- Set up your system
 
 
 # CRAVING(ATTRACTIVE)
-- Environment changes should satify the object rules
-
+- Environment Fixes  should satify the object rules
+- 3 years old priniciple
 
 # ACTION STRATEGY(EASY)
-- Environment change:Environment change should satify the action rules
+- Environment fixes should satify the action rules
+- 3 years old priniciple
 
 # REWARD
-- Environment change:Environment change should satisfy action and reward rules
+- Environment fixes should satisfy action and reward rules
   
+
+
+General Strategies
+- Fix your environment
+- Set up your system
+- Somtimes do nothing
+- Embrace the struck
+- 3 years old priniciple
