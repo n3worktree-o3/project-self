@@ -10,7 +10,7 @@
 	-locally complex and globally structured
 	-locally concrete and globally abstract
 
-# ACTION and REWARD
+# REWARD
 ## Primary Reward
 -Producing structure,seeing,experience structure > learning structure
 -Expanding complexity
