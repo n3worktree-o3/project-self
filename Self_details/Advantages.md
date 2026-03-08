@@ -1,7 +1,7 @@
 # Skills(Intution,Curiosity and Liking)
 - General Intelligence 
 - Math(Analytic number theory ,etc)
-- Art
+- Art->Main
 - Machine learning and AI
 - ALgorithms(Competative programming)
 - Visualisation
