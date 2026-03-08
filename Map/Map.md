@@ -12,27 +12,32 @@
 # problem_solution
 # Short_points
 # Atomic habits
+---------------------------------------------------------
+$ Newly learnt
+# Flow 
+# One-goal
+# Memory-bias
 
-
-
-
-
+----------------------------------------------------------
+# Main Skill
+- General Intelligence Theory
+----------------------------------------------------------
 # Domain Skills
 - Math(Analytic number theory ,etc)
 - Art
 - Machine Learning
 - Competative programming
-- General Intelligence
 - Visual intelligence(observation,mind-mapping,visualisation)
 - awareness
-	
+----------------------------------------------------------
 # Transferable skills
 - Communication
 - Adaptability
 - Leadership 
 - Team work and Collabration 
 - Problem-solving
-
+----------------------------------------------------------
 # Sub Domain Skills
 -//Yet to write
 
+----------------------------------------------------------
