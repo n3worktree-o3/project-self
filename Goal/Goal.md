@@ -12,6 +12,8 @@
 - Competative programming
 - Math
 - Art
+- Visual intelligence(observation,mind-mapping,visualisation)
+- Awareness
 - External skills
 
 
