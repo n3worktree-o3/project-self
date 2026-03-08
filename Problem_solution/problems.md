@@ -4,6 +4,6 @@
 - Recollecting and memorization and memory retention
 - Laziness->Solution:Empty stomach
 - Habitual ->see Atomic habits
-- AI usages for skill developments
+- AI usages for skill developments->in progress
 - Note taking system
 
