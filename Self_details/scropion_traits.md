@@ -91,3 +91,57 @@
 - Self-reinvention ability
   Ability to become a new version of themselves.
 
+
+# Scorpio Drawbacks
+
+## Uncomfortable with Uncertainty
+- Strong desire to understand hidden motives and outcomes.
+- Dislike ambiguous situations where intentions are unclear.
+- May feel internal stress when answers or explanations are missing.
+- Often tries to investigate or analyze situations until certainty is found.
+
+## Overthinking
+- Tendency to analyze situations very deeply and repeatedly.
+- May replay conversations or events in their mind multiple times.
+- Can imagine worst-case scenarios even when evidence is limited.
+- This mental intensity can lead to emotional exhaustion or anxiety.
+
+## Low Tolerance for Repetitive Jobs
+- Routine tasks can feel mentally draining or meaningless.
+- Prefers complex, challenging, or problem-solving work.
+- May lose motivation in environments with monotonous workflows.
+- Works best when the task involves depth, strategy, or transformation.
+
+## Suspicion and Distrust
+- Natural instinct to question motives and hidden intentions.
+- Trust is built slowly and carefully.
+- Can sometimes assume negative intentions before clear proof.
+
+## Emotional Extremes
+- Experiences emotions intensely rather than moderately.
+- Feelings may swing between very strong attachment and deep withdrawal.
+- Emotional intensity may overwhelm both themselves and others.
+
+## Difficulty Letting Go
+- Strong memory of emotional events and betrayals.
+- May hold grudges or resentment longer than most people.
+- Past experiences can influence future decisions strongly.
+
+## Secretiveness
+- Often keeps personal thoughts and emotions private.
+- May struggle to openly express vulnerability.
+- Others may find it difficult to understand what they truly feel.
+
+## Control Tendencies
+- Preference to control situations to avoid unexpected outcomes.
+- May struggle with delegating or letting others take the lead.
+- Desire for control often comes from self-protection instincts.
+
+## Obsessive Focus
+- When deeply invested, attention can become extreme.
+- May neglect other areas of life while pursuing a goal or problem.
+
+## Emotional Withdrawal
+- When hurt or overwhelmed, may become silent or distant.
+- Instead of discussing the issue immediately, prefers internal processing.
+
