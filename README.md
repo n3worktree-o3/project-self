@@ -12,11 +12,12 @@
 # over thinking
 # low tolerance to repetative jobs
 # Plan isn't perfect
-# confusion(passion,job security)
-# academics
-# environment
+# confusion(passion,job security,etc)
+# academics pressure
+# environment distraction
 # ego(fear,anger)
-# patience,awareness
+# lack of patience,awareness
 # procastination
 # all or nothing mindeset
 # perfection mindset
+
