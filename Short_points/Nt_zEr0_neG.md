@@ -41,6 +41,7 @@
     - Strategies
         - Human learning:Learning → Challenging → Trying → Analysis → Correcting → Repeat
         - Reinforcement Loop:State → Action → Reward → Update → Repeat
+- keep tracking your progress taking notes,keeping your calender up to date,sharing what you know.Later it will be useful to look back and see how you got to the new and better place so you can repeat successsful actions.
 # BROAD
 - Intution(for intution see colin channel)
 - Curiosity
