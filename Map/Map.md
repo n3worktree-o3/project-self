@@ -18,6 +18,7 @@ $ Newly learnt
 # One-goal
 # Memory-bias
 # Env
+# free mind driven
 # Analysis_Solution
 
 ----------------------------------------------------------
