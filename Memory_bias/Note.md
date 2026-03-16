@@ -1,2 +1,0 @@
-- Even though u have right mindeset(or perspective) u need to change memory-bias that supports that mindeset.
-- Try to collect all object related to your GIT,skills and problems.
