@@ -32,7 +32,7 @@
 ## Defintion(Algorithm)
 - An algorithm is a step-by-step set of instructions to solve a problem.
 
-## Definition(Process)
+## Definition(Process->noun) (verb means execution of series of action to achieve a goal)
 - First defintion(general):Process is series of actions/steps that produce somthing or achieve a goal.
 - Second definition(computation/GI):Process means execution of series of steps/task to get from input to output.
 ## Explanation 
